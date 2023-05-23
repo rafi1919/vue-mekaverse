@@ -1,5 +1,7 @@
 # vue-mekaverse
 
+https://mekaverse-vue.vercel.app/
+
 ## Project setup
 ```
 npm install
